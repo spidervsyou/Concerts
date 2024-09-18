@@ -15,7 +15,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/spidervsyou/your-repository.git
 cd your-repository
 Install Dependencies
 
