@@ -1,4 +1,4 @@
-from db_connection import connect_db  # Ensure this matches your actual function name
+from db_connection import connect_db  
 
 class Venue:
     def __init__(self, id):
@@ -77,7 +77,7 @@ class Venue:
         else:
             return None
 
-# Example usage:
+
 first_venue = Venue('Stadium')
 print(f"Bands at venue: {first_venue.bands()}")
 print(f"Concerts at venue: {first_venue.concerts()}")
