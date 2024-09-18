@@ -1,0 +1,28 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "dcb70e8a4bcdde0fa560765b2a88e0971f14a10a6c4cfcfd2a3db593a3c8d4f4"
+        },
+        "pipenv_version": "2021.5.29",
+        "requires": {
+            "python_version": "3.8"
+        }
+    },
+    "default": {
+        "requests": {
+            "version": "==2.25.1",
+            "hashes": [
+                "sha256:6a36e6b6d7bfa1c6b7a3e8d63d2b2b5d70d0a1d7c4b621cdd8d2fc9a4e7c6f5e",
+                "sha256:7c8e029a5a44f93d7b4b9a7c1d0d75b8ea8d58da5c5cf6c4d69c6382b925e4b0"
+            ]
+        },
+        "flask": {
+            "version": "==2.0.1",
+            "hashes": [
+                "sha256:8f8e8d6b7bfa5d6b6cdb1f8b29e8c1c7da5d5e3b19c0d914f4e2a6d7150dc67e",
+                "sha256:9d6e5b0c89cd97b6a2a4b1b63a5e7e81c7e9a7c9a8d7c4f3a6d8e9c0c5c16f08"
+            ]
+        }
+    },
+    "develop": {}
+}
